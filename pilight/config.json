@@ -10,7 +10,7 @@
     "full_access": true,
     "options": {
       "sender": 0,
-      "receiver": -1
+      "receiver": 1
     },
     "schema": {
       "sender": "int",
